@@ -28,3 +28,8 @@ Contribute: `developeralliance.eth`
 > I'm Alex Masmej and I approve of this message.
 
 To help create the commercial script please contribute to the [Commercial Script Ticket](https://github.com/EthereumDeveloperAlliance/ethereum-commercial/issues/1)
+
+# Contributor List
+- https://twitter.com/DekanBro/status/1262586739392040960
+- https://twitter.com/carlosecgomes/status/1262588097943887874
+- https://twitter.com/Maverickal_/status/1262583483375013889
